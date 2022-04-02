@@ -1,0 +1,40 @@
+.heading {
+	color: red;
+}
+
+.text {
+	color: white;
+	background: blue;
+	width: 100px
+}
+
+.first {
+	color: red;
+}
+
+.subhead {
+	color: white;
+	background: green;
+}
+
+.second {
+	color: white;
+	background: green;
+	height: 70px;
+	}
+
+.subheadtwo {
+	margin-left: 70px;
+	padding-top: 20px;
+}
+
+.paragraph {
+	padding-left: 130px;
+}
+
+.container {
+	border: 1px solid black;
+	font-size: 25px;
+}
+
+
